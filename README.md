@@ -15,3 +15,4 @@ HTML, CSS, JavaScript and Git.
 
 ## How to Run
 Open index.html in a web browser.
+This project demonstrates Git branching and collaboration.
